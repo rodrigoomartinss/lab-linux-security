@@ -19,4 +19,5 @@ Comandos aplicados para a blindagem:
 `sudo ufw enable`
 
 ### Evidência de Configuração
-*(Adicione aqui o seu print mostrando o "Status: active" e as portas liberadas)*
+<img width="512" height="222" alt="image" src="https://github.com/user-attachments/assets/7fa34c0c-c70f-432a-8e6d-6a406fc2b742" />
+
