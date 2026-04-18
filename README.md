@@ -14,8 +14,8 @@ A política de segurança adotada foi o **Default Deny** (Negar tudo por padrão
 Comandos aplicados para a blindagem:
 `sudo ufw default deny incoming`
 `sudo ufw default allow outgoing`
-`sudo ufw allow 22/tcp` (Acesso SSH)
-`sudo ufw allow 80/tcp` (Tráfego Web)
+`sudo ufw allow 22/tcp` 
+`sudo ufw allow 80/tcp`
 `sudo ufw enable`
 
 ### Evidência de Configuração
